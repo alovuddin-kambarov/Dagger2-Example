@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC_Android/AndroidStudioProjects/Dagger2example/app/src/main/res/drawable/ic_item_background.xml" value="0.322" />
+        <entry key="..\:/Users/PC_Android/AndroidStudioProjects/Dagger2example/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/PC_Android/AndroidStudioProjects/Dagger2example/app/src/main/res/layout/activity_splash.xml" value="0.3134057971014493" />
+        <entry key="..\:/Users/PC_Android/AndroidStudioProjects/Dagger2example/app/src/main/res/layout/fragment_boarding.xml" value="0.3134057971014493" />
+        <entry key="..\:/Users/PC_Android/AndroidStudioProjects/Dagger2example/app/src/main/res/layout/fragment_onboarding.xml" value="0.22" />
+        <entry key="..\:/Users/PC_Android/AndroidStudioProjects/Dagger2example/app/src/main/res/layout/fragment_select_fovorite.xml" value="0.3134057971014493" />
+        <entry key="..\:/Users/PC_Android/AndroidStudioProjects/Dagger2example/app/src/main/res/layout/fragment_splash.xml" value="0.3134057971014493" />
+        <entry key="..\:/Users/PC_Android/AndroidStudioProjects/Dagger2example/app/src/main/res/layout/fragment_welcome.xml" value="0.22" />
+        <entry key="..\:/Users/PC_Android/AndroidStudioProjects/Dagger2example/app/src/main/res/layout/select_favorite_item.xml" value="0.33" />
+        <entry key="..\:/Users/PC_Android/AndroidStudioProjects/Dagger2example/app/src/main/res/layout/slider_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
