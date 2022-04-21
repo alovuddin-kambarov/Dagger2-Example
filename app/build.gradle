@@ -8,7 +8,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "uz.coder.dagger2example"
+        applicationId "uz.alovuddin.dagger2"
         minSdk 27
         targetSdk 32
         versionCode 1
@@ -72,11 +72,5 @@ dependencies {
 
     //auto size
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
-
-    //animation
-    implementation "com.airbnb.android:lottie:3.4.0"
-
-    //tab indicator
-    implementation 'com.tbuonomo:dotsindicator:4.2'
 
 }

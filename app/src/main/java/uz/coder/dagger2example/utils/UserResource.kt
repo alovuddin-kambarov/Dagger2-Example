@@ -1,1 +1,0 @@
-package uz.coder.dagger2example.utilsimport uz.coder.dagger2example.database.entity.UserEntityimport uz.coder.dagger2example.models.Userssealed class UserResource {    object Loading : UserResource()    data class Success(val list: List<UserEntity>):UserResource()    data class Error(val message: String):UserResource()}
